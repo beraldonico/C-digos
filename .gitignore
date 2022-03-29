@@ -1,0 +1,6 @@
+*__pycache__
+*venv
+env_file
+q_table.csv
+.pio
+*vscode
